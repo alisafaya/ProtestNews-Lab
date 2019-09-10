@@ -1,2 +1,2 @@
 # ProtestNews-Lab
-This repo contains my submissions into CLEF'19 ProtestNews lab competition on codalab
+This repo contains my submissions to the competition of CLEF'19 ProtestNews lab on codalab
